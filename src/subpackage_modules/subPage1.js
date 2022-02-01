@@ -10,7 +10,7 @@ module.exports = [{
         {
             "path": "sub2",
             "style": {
-                "navigationBarTitleText": "sub 2222"
+                "navigationBarTitleText": "sub 2"
             }
         },
     ]
