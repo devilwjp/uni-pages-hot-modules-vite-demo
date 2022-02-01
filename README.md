@@ -8,5 +8,5 @@
 
 ## 关注
 查看`/vite.config.js`  
-查看`/src/pages.json`
+查看`/src/pages.json`  
 查看`/src/page_modules/index.js`和`/src/subpackage_modules/index.js`，这两个文件都使用了`require.context`方法，读取目录中其他所有的文件  
