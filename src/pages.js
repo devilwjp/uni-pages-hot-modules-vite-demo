@@ -11,4 +11,3 @@ module.exports = {
         backgroundColor: '#F8F8F8'
     }
 }
-//
