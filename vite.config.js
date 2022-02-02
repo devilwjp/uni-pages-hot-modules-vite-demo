@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 import uni from '@dcloudio/vite-plugin-uni'
-import uniHot from 'uni-pages-hot-modules'
+import uniHot from './src/uniHot'//'uni-pages-hot-modules'
 uniHot.setupHotJs()
 
 // https://vitejs.dev/config/
